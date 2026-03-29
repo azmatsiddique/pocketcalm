@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/((?!api/)(?!calendar_2026/).*)",
+            "destination": "/index.html"
+        }
+    ]
+}
